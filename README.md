@@ -10,6 +10,8 @@
         <img src="http://kartik-v.github.io/bootstrap-fileinput-samples/samples/donate.png" alt="Donate"/>
     </a>
 </h1>
+Refrensi
+https://rakitaplikasi.com/blog/sistem-pakar-diagnosis-penyakit-anthrax-pada-hewan-dengan-metode-certainty-factor
 
 Aplikasi berbasis website menggunakan PHP dengan framework Yii versi 2 menerapkan metode forward chaining dalam proses penentuan diagnosa dan pengolahan nilai kepastian menggunakan metode certainty factor.
 
